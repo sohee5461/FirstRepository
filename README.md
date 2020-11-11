@@ -3,10 +3,10 @@
 ## 1주차 과제
 
 ## 2주차 과제
-<img width="" height="" src="./Png/2주차.png"></img>
+<img width="250" height="440" src="./Png/2주차.png"></img>
 
 ## 3주차 과제
-<img width="" height="" src="./Png/3주차.png"></img>
+<img width="620" height="440" src="./Png/3주차.png"></img>
 
 ## 4주차 과제
     - 앱 이름 : Travel now
@@ -18,16 +18,22 @@
              3) 여행 중에도 애플리케이션을 사용할 수 있도록 지도 서비스와 더불어 맛집이나 카페 등을 나타내고 사람들이 많이 찾은 곳을 표시하여 쉽게 찾아갈 수 있도록 함
 
 ## 7주차 과제
-<img width="" height="" src="./Png/7주차_1.PNG"></img>
-<img width="" height="" src="./Png/7주차_2.PNG"></img>
+<img width="230" height="460" src="./Png/7주차_1.PNG"></img>
+<img width="230" height="460" src="./Png/7주차_2.PNG"></img>
 
 ## 9주차 과제
-<img width="" height="" src="./Png/9주차_1.PNG"></img>
-<img width="" height="" src="./Png/9주차_2.PNG"></img>
-<img width="" height="" src="./Png/9주차_3.PNG"></img>
-<img width="" height="" src="./Png/9주차_4.PNG"></img>
-<img width="" height="" src="./Png/9주차_5.PNG"></img>
-<img width="" height="" src="./Png/9주차_6.PNG"></img>
+<img width="250" height="500" src="./Png/9주차_1.PNG"></img>
+<img width="250" height="500" src="./Png/9주차_2.PNG"></img>
+<img width="250" height="500" src="./Png/9주차_3.PNG"></img>
+<img width="250" height="500" src="./Png/9주차_4.PNG"></img>
+<img width="250" height="500" src="./Png/9주차_5.PNG"></img>
+<img width="250" height="500" src="./Png/9주차_6.PNG"></img>
 
 ## 10주차 과제
-<img width="" height="" src="./Png/10주차.PNG"></img>
+<img width="250" height="500" src="./Png/10주차.PNG"></img>
+
+## 11주차 과제
+<img width="230" height="460" src="./Png/11주차_1.PNG"></img>
+<img width="230" height="460" src="./Png/11주차_2.PNG"></img>
+<img width="230" height="460" src="./Png/11주차_3.PNG"></img>
+<img width="230" height="460" src="./Png/11주차_4.PNG"></img>
